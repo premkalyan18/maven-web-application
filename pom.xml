@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>ICICI bank Releases Nexus Repository</name>
-	      <url>http://13.126.239.212:9980/premkalyan/repository/icicibank-release/</url>
+	      <name>idfc bank Releases Nexus Repository</name>
+	      <url>http://43.204.98.241:8081/repository/project-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ICICI bank Snapshot Nexus Repository </name>
-	      <url>http://13.126.239.212:9980/premkalyan/repository/icicibank-snapshot/</url>
+	      <name>idfc bank Snapshot Nexus Repository</name>
+	      <url>http://43.204.98.241:8081/repository/project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
